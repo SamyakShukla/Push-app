@@ -1,4 +1,4 @@
-Create a file named Push-app. Create 2 folders inside it named client and server.
+Create a file named Push-app. Create 2 folders inside it named client and server. <br>
 Inside the client side install all the necessary modules for create react app. Just write npx create-react-app and copy the contents from App.js to your App.js file. 
 Install web-push library to implement web push notifications from server to your devices. Use command: npm install web-push.
 All the necessary comments are already there in the code.

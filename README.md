@@ -8,3 +8,4 @@ Now in the frontend there will be 3 buttons to test the push notifications. Here
 If user has push subscription, it will recieve push notification else not. <br>
 The server file is stored in different repo: https://github.com/SamyakShukla/Push-app-Server.git <br>
 The server details are in that repo readme. <br>
+Run the server in one terminal and client side react development server in another terminal to make it work. Now push buttons to get notifications. <br>

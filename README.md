@@ -9,3 +9,4 @@ If user has push subscription, it will recieve push notification else not. <br>
 The server file is stored in different repo: https://github.com/SamyakShukla/Push-app-Server.git <br>
 The server details are in that repo readme. <br>
 Run the server in one terminal and client side react development server in another terminal to make it work. Now push buttons to get notifications. <br>
+![Screenshot (1774)](https://github.com/SamyakShukla/Push-app/assets/79325081/9f6d2525-2257-4c72-bdd4-125cba504b99)
